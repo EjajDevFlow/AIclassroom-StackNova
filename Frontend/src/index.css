@@ -1,0 +1,9 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+
+html.dark {
+  background-color: #1a202c; /* bg-gray-900 */
+  color: #ffffff; /* text-white */
+}
